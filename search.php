@@ -43,7 +43,7 @@
     }
     ?>
 
-    <h2>Search Results</h2>
+    <h1>Search Results <a href="index.php">Home</a></h1>
     <?php if ($result->num_rows > 0): ?>
         <table>
             <tr>
@@ -65,7 +65,7 @@
     <?php else: ?>
         <p>No students found.</p>
     <?php endif; ?>
-    
+
 </body>
 </html>
 

@@ -21,5 +21,8 @@
 
     <p>05/05/2026</p>
     
+    <footer>
+        <p>Copyright &copy; 2026 Allyson Carter</p>
+    </footer>
 </body>
 </html>

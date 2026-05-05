@@ -1,0 +1,21 @@
+/* Allyson Carter 5/5/2026 */
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #3d0947;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #b29cce;
+}
+
+h1 {
+    color: #0e3c70;
+}
+
